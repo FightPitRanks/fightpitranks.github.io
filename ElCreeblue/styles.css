@@ -10456,7 +10456,7 @@ max-width:1000%;
 }
 
 @media screen and (max-width: 700px) {
-    .navbar is-fixed-top is-danger {
+    .navbar.is-danger {
     max-height: 30px;
     }
 }
