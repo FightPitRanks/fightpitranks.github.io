@@ -10473,4 +10473,18 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
     margin-right: auto;
     }
 }
+
+@media screen and (max-width: 700px) {
+    .SFV {
+    max-width: 95%;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .GGS {
+    max-width: 95%;
+    }
+}
+
+
 /*# sourceMappingURL=styles.css.map */
