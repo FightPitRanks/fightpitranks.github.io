@@ -10457,4 +10457,20 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
     position:relative;
     margin-top:-1%;
 }
+
+@media screen and (max-width: 700px) {
+    .logo1 {
+    max-width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .small-logo1 {
+    max-width: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+}
 /*# sourceMappingURL=styles.css.map */
