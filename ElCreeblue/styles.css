@@ -10454,4 +10454,10 @@ max-width:1000%;
     margin-right: auto;
     }
 }
+
+@media screen and (max-width: 700px) {
+    .navbar is-fixed-top is-danger {
+    max-height: 30px;
+    }
+}
 /*# sourceMappingURL=styles.css.map */
