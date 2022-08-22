@@ -10459,12 +10459,15 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
 }
 
 @media screen and (max-width: 700px) {
-    .logo1 {
+    .logo2 {
     max-width: 150px;
-    margin-left: auto;
+    margin-left: -50px;
     margin-right: auto;
+    margin-top: -25px;
+    z-index: 1;
     }
 }
+
 
 @media screen and (max-width: 700px) {
     .small-logo1 {
@@ -10495,7 +10498,7 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
 
 @media screen and (max-width: 700px) {
     .hero.is-primary {
-    max-height: 200px;
+    max-height: 100px;
     }
 }
 
