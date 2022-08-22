@@ -10502,5 +10502,12 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
     }
 }
 
+@media screen and (max-width: 700px) {
+    img {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    }
+}
+
 
 /*# sourceMappingURL=styles.css.map */
